@@ -7,3 +7,5 @@ Key concepts covered :-
 3.) eventListeners
 4.) textContent
 5.) Math.trunc()
+
+Preview web application here: https://techiemokhele.github.io/guess-the-number/
